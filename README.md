@@ -13,3 +13,4 @@
 - If the player reaches the 2048 tile the game is won.
 
 ## Demo Video
+Link: https://drive.google.com/file/d/1phJ6jE2uYIigGSklJrhBDuHnHfCEE0CH/view?usp=sharing
